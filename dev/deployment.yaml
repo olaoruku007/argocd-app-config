@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sa07/my_app:1.0.1
+        image: public.ecr.aws/z9o6z9s7/my_app:1.0.0
         ports:
         - containerPort: 8080
