@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: public.ecr.aws/z9o6z9s7/my_app:1.0.0
         ports:
-        - containerPort: 8081
+        - containerPort: 80
